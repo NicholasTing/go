@@ -1,3 +1,5 @@
-# go - 16 May 2021
+# go
 
-Self learning go
+16 May 2021
+
+Self learning GO
